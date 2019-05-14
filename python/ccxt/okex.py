@@ -43,7 +43,7 @@ class okex (okcoinusd):
                 'conx-tpls': {
                     'default': {
                         'type': 'ws',
-                        'baseurl': 'wss://real.okex.com:10441/websocket',
+                        'baseurl': 'wss://real.okex.com:10442/ws/v3',
                     },
                 },
                 'methodmap': {
